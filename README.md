@@ -1,5 +1,4 @@
 # irrigation
-Of course, Sai! Here's a simpler version of the README file for your Smart Irrigation System project:
 
 ```markdown
 # 🌿 Smart Irrigation System
